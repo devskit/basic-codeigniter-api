@@ -87,11 +87,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<br>
 		<p>Urls available:</p>
 		<ul>
-			<li>GET: http://devskit.com/basic-codeigniter-api/users</li>
-			<li>GET (with: id'): http://devskit.com/basic-codeigniter-api/users/user</li>
-			<li>POST (with: name, email, password): http://devskit.com/basic-codeigniter-api/users/user</li>
-			<li>PUT (with: id, name, email, password): http://devskit.com/basic-codeigniter-api/users/user</li>
-			<li>DELETE (with id): http://devskit.com/basic-codeigniter-api/users/user</li>
+			<li>GET: <a href="http://devskit.com/basic-codeigniter-api/api/history">http://devskit.com/basic-codeigniter-api/api/history</a></li>
+			<li>GET: <a href="http://devskit.com/basic-codeigniter-api/api/users">http://devskit.com/basic-codeigniter-api/api/users</a></li>
+			<li>GET (with: id'): <a href="http://devskit.com/basic-codeigniter-api/api/users/user">http://devskit.com/basic-codeigniter-api/api/users/user</a></li>
+			<li>POST (with: name, email, password): <a href="http://devskit.com/basic-codeigniter-api/api/users/user">http://devskit.com/basic-codeigniter-api/api/users/user</a></li>
+			<li>PUT (with: id, name, email, password): <a href="http://devskit.com/basic-codeigniter-api/api/users/user">http://devskit.com/basic-codeigniter-api/api/users/user</a></li>
+			<li>DELETE (with id): <a href="http://devskit.com/basic-codeigniter-api/api/users/user">http://devskit.com/basic-codeigniter-api/api/users/user</a></li>
 		</ul>
 
 		<br>
